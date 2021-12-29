@@ -1,0 +1,45 @@
+.cont{
+    max-width: 200px;
+    margin: 30px auto;
+   height: 800px;
+}
+
+button{
+    background: none;
+    border: 1px solid black;
+    border-radius: 4px;
+    padding: 20px 10px;
+    font-size: 9rem;  
+     
+    
+}
+
+.slider{
+    border: 2px solid black;
+    width: 261px;
+    margin: 20px auto;
+    overflow: hidden;
+}
+
+.slider__img{
+ 
+    position: relative;
+    left: 0;
+    transition: all ease 1s;
+    width: 261px;
+    height: 194px;
+}
+
+img{
+    width: 261px;
+    height: 194px;
+ 
+}
+
+button {
+    display: inline-block;
+    width: 50px;
+    height: 20px;
+    font-size: 12px;
+    text-align: center;
+}
